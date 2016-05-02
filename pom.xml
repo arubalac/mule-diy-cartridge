@@ -306,7 +306,7 @@
 			<id>codehaus-mule-repo</id>
 			<name>codehaus-mule-repo</name>
 				<url>
-					https://repository-master.mulesoft.org/nexus/content/groups/public/
+					https://repository.mulesoft.org/nexus/content/groups/public/
 				</url>
 			<layout>default</layout>
 		</repository>
