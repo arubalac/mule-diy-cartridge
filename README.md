@@ -2,7 +2,7 @@ Mule 3.x Standalone - Openshift DIY Cartridge
 ============================
 
 This git repository helps you get up and running quickly with a Mule
-on OpenShift.
+on OpenShift. This a modified fork from Ryandcarter repository.
 
 
 Running on OpenShift
@@ -15,7 +15,7 @@ Register at http://openshift.redhat.com/, and then create a raw (do-it-yourself)
 Add this upstream mule-diy-cartridge repo:
 
     cd mule
-    git remote add quickstart -m master https://github.com/ryandcarter/mule-diy-cartridge.git
+    git remote add quickstart -m master https://github.com/arubalac/mule-diy-cartridge.git
     git pull -s recursive -X theirs quickstart master
     
 Then push the repo upstream:  
